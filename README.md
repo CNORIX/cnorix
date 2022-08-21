@@ -1,4 +1,4 @@
-# Hi, i'm [@CNORIX]!
+# Hi, i'm [CNORIX]!
 
 Here I will show my progress in learning different things, and in the future I will share various projects!
 
@@ -12,4 +12,4 @@ Here I will show my progress in learning different things, and in the future I w
 
 <!-- dark -->
 
-[MiDeev]:https://github.com/cnorix
+[CNORIX]:https://github.com/cnorix
