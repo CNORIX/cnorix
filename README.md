@@ -22,7 +22,9 @@ Here I will show my progress in learning different things, and in the future I w
   <a href="https://www.youtube.com/channel/UCRnKZHXRCOB_LCK5WJp8bjA"><img alt="YouTube" style="height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/240px-YouTube_full-color_icon_(2017).svg.png" /></a>
   
   
-  <a href="https://t.me/cnorix_community%22%3E<img alt="Telegram" style="height: 26px" src="https://telegram.org/img/t_logo.svg" /></a>
+  <a href="https://t.me/cnorix_community<img alt="Telegram" style="height: 25px" src="https://telegram.org/img/t_logo.svg" /></a>
   
+                                                                                                                           
+                                                                                                                                
   
 </div>
